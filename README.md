@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhf1999&show_icons=true&theme=radical)]. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhf1999&show_icons=true&theme=radical)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qhf1999&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhf1999)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
