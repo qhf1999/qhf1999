@@ -1,8 +1,13 @@
 ### Hi there 👋
+### Hello GitHub Fans 👋
+### I'm qicoder
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhf1999&show_icons=true&theme=radical)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qhf1999&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠 技术栈 | Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhf1999)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 <!--
 **qhf1999/qhf1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
